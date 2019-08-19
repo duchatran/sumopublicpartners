@@ -1,0 +1,3 @@
+[submodule "partnerrepo"]
+	path = partnerrepo
+	url = git@github.com:himanshupartner/partnerrepo.git
